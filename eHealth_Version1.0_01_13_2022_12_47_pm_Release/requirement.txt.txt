@@ -1,0 +1,12 @@
+PyQt5
+PyQtWebEngine
+numpy
+opencv-python
+opencv-contrib-python
+pandas
+matplotlib
+tensorflow==2.5.0
+yolov5
+numba
+pyodbc
+wfdb
