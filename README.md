@@ -13,4 +13,4 @@ Unzip rar file, copy **brain_seg_unet.hdf5** to folder **ModelAI/Brain_Tumor_Seg
 If you are using SQL Server 2012 R2 please restore with file **eHealth_test.bak** in folder **BackupDB**
 If you are using higher version please restore with file **script.sql** in folder **BackupDB**
 ## Step 6: Run
-Run program via command python main.py
+Run program via command **python main.py**
